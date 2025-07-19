@@ -1,0 +1,4 @@
+com.example.ramtest.test.app-androidTest-0 /home/pramodgautam/nchl-projects/RamTestApp/app/build/generated/res/resValues/androidTest/debug
+com.example.ramtest.test.app-mergeDebugAndroidTestResources-1 /home/pramodgautam/nchl-projects/RamTestApp/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.ramtest.test.app-mergeDebugAndroidTestResources-2 /home/pramodgautam/nchl-projects/RamTestApp/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.ramtest.test.app-merged_res-3 /home/pramodgautam/nchl-projects/RamTestApp/app/build/intermediates/merged_res/debugAndroidTest

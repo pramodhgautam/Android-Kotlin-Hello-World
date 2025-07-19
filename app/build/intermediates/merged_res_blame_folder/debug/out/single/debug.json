@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/pramodgautam/.gradle/daemon/8.8/com.example.ramtest.app-merged_res-20:/layout_activity_main.xml.flat",
+        "source": "/home/pramodgautam/.gradle/daemon/8.8/com.example.ramtest.app-main-22:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.ramtest.app-merged_res-20:/layout_activity_main.xml.flat",
+        "source": "com.example.ramtest.app-main-22:/layout/activity_main.xml"
+    }
+]
